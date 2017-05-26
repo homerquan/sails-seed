@@ -3,6 +3,7 @@
 //dependencies
 var async  = require('async'),
     path   = require('path'),
+    _ = require('lodash'),
     libPath = path.join(__dirname, 'lib');
 
 // model extras
