@@ -1,6 +1,6 @@
 {
-  "name": "sails-seed",
-  "version": "0.5.0",
+  "name": "sails-seed-fix",
+  "version": "0.5.1",
   "description": "Simple data seeding for sails.js projects.",
   "main": "index.js",
   "scripts": {
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/frostme/sails-seed.git"
+    "url": "https://github.com/homerquan/sails-seed-fix"
   },
   "keywords": [
     "sails",
     "seed",
     "data"
   ],
-  "author": "frostme",
+  "author": "frostme, homerquan",
   "license": "ISC",
   "sails": {
     "isHook": true
